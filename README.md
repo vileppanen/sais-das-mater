@@ -1,4 +1,4 @@
-# sais-das-mater README
+# sais-das-mater
 
 This VSCode extension adds a command `Display Size` which shows the approximated size of selected text in the active editor. The command assumes the text is encoded in UTF-8.
 
